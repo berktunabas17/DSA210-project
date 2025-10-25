@@ -1,2 +1,2 @@
 # DSA210-project
-my project about forex tradingcdscdscdscdsc
+my project about forex trading
