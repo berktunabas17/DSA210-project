@@ -1,4 +1,5 @@
-																																							FVG’s IN FOREX TRADING 
+
+FVG’s IN FOREX TRADING 
 
 
 Aim of the Project:
